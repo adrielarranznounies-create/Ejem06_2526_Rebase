@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+=======
+Primera modificación
+
+segunda modificación
+
+Tercera modificación
+>>>>>>> 3b6a0a4 (Tercera modificacion)
