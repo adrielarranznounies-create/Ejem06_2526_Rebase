@@ -5,12 +5,10 @@ segunda modificación
 
 Tercera modificación
 
-<<<<<<< HEAD
-=======
 Cuarta modificación
 
 Quinta modificación
 
 Sexta modificación
 
->>>>>>> d6675b5 (Sexta modificacion)
+
